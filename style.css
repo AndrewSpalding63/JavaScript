@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding:0
+}
+
+body {
+    background-color: purple;
+    margin-left: calc(50% - 300px);
+    text-align: center;
+    color: #ffffff;
+}
+
+div {
+    width: 600px;
+    margin-bottom: 40px;
+}
+
+#container {
+    background-color: #292826;
+}
+
+#image-container {
+    height: 400px;
+}
+
+#wrong-email {
+    background-color: red;
+    color: #ffffff
+}
+
+#stored {
+    text-align: left;
+    border: 2px solid yellow;
+    padding: 5px;
+}
+
+a {
+    color: white;
+}
+
+#email {
+    width: 300px;
+    margin-right: 10px;
+}
+
+img {
+    border: 2px solid yellow;
+}
